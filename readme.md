@@ -222,3 +222,5 @@ Els resultats de la prova han estat:
 - Temps mitjà: 156 ms.
 
 Això demostra que s'ha aconseguit localitzar i comunicar amb la màquina Zorin OS mitjançant el seu nom local.
+
+IA: https://notebook.google.com/notebook/b47f5b7d-b058-4e3f-beeb-d5b1fe8e7cab?authuser=1
