@@ -155,7 +155,7 @@ Això significa que retorna informació obtinguda mitjançant un altre servidor 
 ```bash
 server ns-535.awsdns-02.net
 ```
-![](/AA1-Diagnosi-DNS/IMG/Cap%206%20.png)
+![](/IMG/Cap%207%20.png)
 
 - El servidor seleccionat és ns-535.awsdns-02.net, la seva adreça IP és 205.251.194.23.
 
@@ -165,7 +165,7 @@ Després, s'ha realitzat novament la consulta:
 tecnocampus.cat
 ```
 
-![](/AA1-Diagnosi-DNS/IMG/Cap%208.png)
+![](/IMG/Cap%208.png)
 
 S'han obtingut les adreces IP següents:
 
@@ -190,8 +190,7 @@ En comparar les dues consultes, s'observa que les adreces IP obtingudes són dif
 ```bash
 hostname
 ```
-
-![](/AA1-Diagnosi-DNS/IMG/Cap%209.png)
+![](/IMG/Cap%209.png)
 
 El nom de màquina (hostname) obtingut ha estat:
 
@@ -206,7 +205,7 @@ Des d'un altre equip amb Windows connectat a la mateixa xarxa s'ha executat:
 ```bash 
 ping jean-VirtualBox.local
 ```
-![](/AA1-Diagnosi-DNS/IMG/Cap%2010.png)
+![](/IMG/Cap%2010.png)
 
 El resultat ha estat satisfactori. L'equip Windows ha aconseguit resoldre el nom jean-VirtualBox.local a l'adreça IP 192.169.6.1.
 
